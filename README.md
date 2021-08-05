@@ -65,3 +65,7 @@ GET /posts?published_eq=true&views_lt=100
 ```
 
 For more information visit: **[Mockend](https://docs.mockend.com/config)**
+
+OR
+
+Visit **[JSON Placeholder](https://jsonplaceholder.typicode.com/)** for free online REST API
